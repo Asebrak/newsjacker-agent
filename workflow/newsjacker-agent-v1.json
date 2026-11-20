@@ -2853,7 +2853,7 @@
         },
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "{\"initializeUploadRequest\":{\"owner\":\"urn:li:person:lL6Xi0rtGk\"}}",
+        "jsonBody": "{\"initializeUploadRequest\":{\"owner\":\"urn:li:person:YOUR_LINKEDIN_PERSON_ID\"}}",
         "options": {
           "redirect": {
             "redirect": {
@@ -2965,7 +2965,7 @@
         },
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={{ ({author:\"urn:li:person:lL6Xi0rtGk\",commentary:$('7a3. First publishing attempt?').item.json.draft.title.slice(0,250),visibility:'PUBLIC',distribution:{feedDistribution:'MAIN_FEED',targetEntities:[],thirdPartyDistributionChannels:[]},content:{media:{title:$('7a3. First publishing attempt?').item.json.draft.title.slice(0,200),id:$('7b3. Préparer le PDF approuvé').item.json.document}},lifecycleState:'PUBLISHED',isReshareDisabledByAuthor:false}) }}",
+        "jsonBody": "={{ ({author:\"urn:li:person:YOUR_LINKEDIN_PERSON_ID\",commentary:$('7a3. First publishing attempt?').item.json.draft.title.slice(0,250),visibility:'PUBLIC',distribution:{feedDistribution:'MAIN_FEED',targetEntities:[],thirdPartyDistributionChannels:[]},content:{media:{title:$('7a3. First publishing attempt?').item.json.draft.title.slice(0,200),id:$('7b3. Préparer le PDF approuvé').item.json.document}},lifecycleState:'PUBLISHED',isReshareDisabledByAuthor:false}) }}",
         "options": {
           "redirect": {
             "redirect": {

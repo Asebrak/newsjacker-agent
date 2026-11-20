@@ -87,7 +87,7 @@ Use this if you want to reuse the agent with your own keys. Every service below 
 
 3. **Replace the placeholders** in the export:
    - `YOUR_CLOUDFLARE_ACCOUNT_ID` in the URL of node `5d`.
-   - `YOUR_LINKEDIN_PERSON_ID` in node `7b` (only if you publish).
+   - `YOUR_LINKEDIN_PERSON_ID` in nodes `7b`, `7b2` and `7b5` (only if you publish).
    - The contact e-mail shown in the privacy notice of the forms, if you run it for other people.
 4. **Create 4 Data Tables** and re-select them in every *Data Table* node:
 
